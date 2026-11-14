@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "identificacion": "0000",
+      "nombre": "Admin",
+      "apellidos": "Administrador",
+      "telefono": "555 000111",
+      "email": "admin@acmeclinic.com",
+      "direccion": "Cl 185 # 26 - 85",
+      "password": "admin",
+      "rol" :"administrativo"
+    },
+    {"identificacion": "1111",
+      "nombre": "Carlos",
+      "apellidos": "Pérez",
+      "telefono": "555 111222",
+      "email": "medico@acmeclinic.com",
+      "direccion": "Cl 100 # 15 - 20",
+      "password": "123",
+      "rol": "medico"
+    }
+  ],
+  "pacientes": [],
+  "citas": []
+}
